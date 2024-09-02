@@ -1,0 +1,17 @@
+.recent-moms {
+    padding: 2rem;
+    background-color: #f9f9f9;
+}
+
+.recent-moms h2 {
+    text-align: center;
+}
+
+.recent-moms ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recent-moms li {
+    margin: 0.5rem 0;
+}
